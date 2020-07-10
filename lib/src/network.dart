@@ -44,10 +44,10 @@ class NetworkGiffyDialog extends StatelessWidget {
   final Widget image;
 
   /// Title text.
-  final Text title;
+  final RichText title;
 
   /// Description text
-  final Text description;
+  final RichText description;
 
   /// Sets dialog to have only OK button.
   ///
